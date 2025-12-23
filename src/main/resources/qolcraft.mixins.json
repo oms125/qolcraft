@@ -3,7 +3,8 @@
 	"package": "com.qolcraft.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"ExampleMixin"
+		"ExampleMixin",
+		"FarmlandTrampleMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
